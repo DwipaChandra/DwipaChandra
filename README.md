@@ -1,35 +1,48 @@
-### Hi, I'm Dwipa Chandra 👋
+<p align="center">
+  <img src="./banner.png" alt="Dwipa Chandra Banner" width="100%" />
+</p>
 
-**Software & Web Developer** focused on building clean, functional, and user-centered digital experiences. I enjoy turning ideas into reliable web applications with structured code and minimalist interfaces.
+# Hi there, I'm Dwipa Chandra! 👋
 
----
+**🌍 Based in Bali, Indonesia | 💡 Passionate about building clean & functional web solutions**
 
-#### 🚀 What I Do
-- Build responsive full-stack web applications and intuitive user interfaces
-- Write clean, maintainable, and well-structured code
-- Continuously explore modern web technologies, deployment workflows, and UI/UX design
+*Software Engineering | Full-Stack Web Developer | Laravel | UI/UX Enthusiast | Problem Solver*
 
----
-
-#### 🛠️ Tech Stack
-
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181B?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-
-**Backend & Database**  
-![PHP](https://img.shields.io/badge/PHP-18181B?style=flat-square&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/Laravel-18181B?style=flat-square&logo=laravel&logoColor=FF2D20)
-![MySQL](https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=4479A1)
-
-**Tools & Design**  
-![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=FFFFFF)
-![Figma](https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=figma&logoColor=F24E1E)
+Welcome to my GitHub profile! I'm a software and web developer with a focus on building clean, reliable, and user-centered applications. I enjoy working across both frontend interfaces and backend systems, and I'm always eager to learn and explore better ways to write structured code and minimalist designs.
 
 ---
 
-#### 🤝 Let's Connect
-Open to collaboration, feedback, and discussions around software and web development. Feel free to check out my pinned repositories below!
+## 🛠️ Technologies & Tools
+
+[![Technologies & Tools](https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,mysql,git,github,figma,vscode)](https://skillicons.dev)
+
+---
+
+## 🌟 Let's Connect!
+
+I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/username-kamu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:emailkamu@gmail.com)
+
+---
+
+## 🎉 Fun Fact
+
+I enjoy treating personal productivity like software architecture—building lightweight systems to streamline daily routines while debugging code! ⚡💻
+
+```php
+<?php
+
+class SoftwareDeveloper
+{
+    public string $name = 'Dwipa Chandra';
+    public string $role = 'Full-Stack Web Developer';
+    public string $location = 'Bali, Indonesia';
+    public array $focus = ['Clean Code', 'Minimalist UI/UX', 'Web Applications'];
+
+    public function sayHi(): string
+    {
+        return "Thanks for stopping by! Let's build something great together.";
+    }
+}
